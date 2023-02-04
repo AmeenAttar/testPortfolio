@@ -27,7 +27,7 @@ const exp = [
   },
   {
     title: "Project Intern",
-    cardImage: "assets/images/experience-page/sms.jpg",
+    cardImage: "assets/images/experience-page/sms.jfif",
     place: "Samsung R&D",
     time: "(Jul, 2018 - June, 2019)",
     desp: "<li>As part of 1 year Student project in collaboration with Samsung Research Institute, successfully built & deployed a novel CNN model on an android app & published the Research Paper on the findings.</li><li>The research paper was selected & Published in Springer Singapore's 'Communication Software and Networks' book.</li>",
