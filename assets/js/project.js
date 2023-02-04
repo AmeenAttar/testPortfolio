@@ -23,7 +23,7 @@ const projects = [
   },
   {
     title: "BumbleGPT",
-    cardImage: "assets/images/project-page/bmb.jpg",
+    cardImage: "assets/images/project-page/bml.jpg",
     description: "Generate replies for any recieved text from Bumble match. Now with gender and mood selection.",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "https://bumblegpt2.onrender.com/",
