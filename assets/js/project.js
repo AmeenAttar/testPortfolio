@@ -7,26 +7,26 @@ const projectcards = document.querySelector(".projectcards");
 const projects = [
   {
     title: "MailGPT",
-    cardImage: "assets/images/project-page/mail.png",
+    cardImage: "assets/images/project-page/mail.jpg",
     description: "Generate organised corporate class mails for any scenario",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
-    Previewlink: "mailgpt.onrender.com",
+    Previewlink: "https://mailgpt.onrender.com/",
     Githublink: "",
   },
   {
     title: "QuranGPT",
-    cardImage: "assets/images/project-page/chess.jpg",
+    cardImage: "assets/images/project-page/quran.jpg",
     description: "Ask questions, get answered in verseres from quran. Now with explaination.",
     tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
-    Previewlink: "qurangpt.onrender.com",
+    Previewlink: "https://qurangpt.onrender.com/",
     Githublink: "",
   },
   {
     title: "BumbleGPT",
-    cardImage: "assets/images/project-page/flappybird.png",
+    cardImage: "assets/images/project-page/bmb.jpg",
     description: "Generate replies for any recieved text from Bumble match. Now with gender and mood selection.",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
-    Previewlink: "bumblegpt2.onrender.com",
+    Previewlink: "https://bumblegpt2.onrender.com/",
     Githublink: "",
   },
   {
